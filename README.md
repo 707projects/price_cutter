@@ -1,2 +1,3 @@
 # price_cutter
- finds incongruent cash values in gambleing sites
+
+A baisic script that i will fine tune.
